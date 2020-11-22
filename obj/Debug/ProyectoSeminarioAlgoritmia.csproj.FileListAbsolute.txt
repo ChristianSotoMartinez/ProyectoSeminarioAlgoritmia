@@ -1,0 +1,17 @@
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\bin\Debug\ProyectoSeminarioAlgoritmia.exe.config
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\bin\Debug\ProyectoSeminarioAlgoritmia.exe
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\bin\Debug\ProyectoSeminarioAlgoritmia.pdb
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\bin\Debug\Microsoft.Msagl.dll
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\bin\Debug\Microsoft.Msagl.Drawing.dll
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\bin\Debug\Microsoft.Msagl.xml
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\bin\Debug\Microsoft.Msagl.Drawing.xml
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\obj\Debug\ProyectoSeminarioAlgoritmia.csprojAssemblyReference.cache
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\obj\Debug\ProyectoSeminarioAlgoritmia.Properties.Resources.resources
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\obj\Debug\ProyectoSeminarioAlgoritmia.csproj.GenerateResource.cache
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\obj\Debug\ProyectoSeminarioAlgoritmia.csproj.CoreCompileInputs.cache
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\obj\Debug\ProyectoSeminarioAlgoritmia.csproj.CopyComplete
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\obj\Debug\ProyectoSeminarioAlgoritmia.exe
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\obj\Debug\ProyectoSeminarioAlgoritmia.pdb
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\obj\Debug\ProyectoSeminarioAlgoritmia.Form1.resources
