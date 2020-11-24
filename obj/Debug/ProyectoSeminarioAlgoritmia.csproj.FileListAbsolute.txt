@@ -15,3 +15,8 @@ C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritm
 C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\obj\Debug\ProyectoSeminarioAlgoritmia.exe
 C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\obj\Debug\ProyectoSeminarioAlgoritmia.pdb
 C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\obj\Debug\ProyectoSeminarioAlgoritmia.Form1.resources
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\obj\Debug\ProyectoSeminarioAlgoritmia.instrucciones.resources
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\bin\Debug\ProyectoSeminarioAlgoritmia.exe.manifest
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\bin\Debug\ProyectoSeminarioAlgoritmia.application
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\obj\Debug\ProyectoSeminarioAlgoritmia.exe.manifest
+C:\Users\Syas\source\repos\ProyectoSeminarioAlgoritmia\ProyectoSeminarioAlgoritmia\obj\Debug\ProyectoSeminarioAlgoritmia.application
