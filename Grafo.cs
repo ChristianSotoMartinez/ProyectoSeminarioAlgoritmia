@@ -4,6 +4,7 @@ Codigo: 215475277
 Seccion:D01
 Fecha de entrega: 29/11/2020
 Materia: Seminario de solucion de problemas de algoritmia
+
 Practica: Representacion Grafica de un  grafo
 
 Proposito:
