@@ -32,11 +32,11 @@ jobs:
         uses: NuGet/setup-nuget@v1.0.5
         
       - name: Restore Nuget Packages
-        run: nuget restore ProyectoSeminarioAlgoritmia.WebForms.csproj
+        run: nuget restore ProyectoSeminarioAlgoritmia.csproj
         
         
       - name: build solution
-        run: msbuild ProyectoSeminarioAlgoritmia.WebForms.csproj
+        run: msbuild ProyectoSeminarioAlgoritmia.csproj
         
       
       
